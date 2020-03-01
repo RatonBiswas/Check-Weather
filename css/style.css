@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+#display {
+    height: 839px;
+}
+
+nav .brand-logo {
+    color: chartreuse;
+    font-family: 'Raleway', sans-serif;
+}
+
+.input-field .prefix.active {
+    color: chartreuse;
+}
